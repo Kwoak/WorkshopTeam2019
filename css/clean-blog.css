@@ -483,3 +483,17 @@ footer .copyright {
   margin-top: 75px;
   margin-bottom: 15px;
 }
+
+.main-container {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.left-panel {
+  width: 50vh;
+}
+
+.value {
+  width: 100%;
+}
