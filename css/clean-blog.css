@@ -207,7 +207,7 @@ header.masthead .overlay {
 header.masthead .page-heading,
 header.masthead .post-heading,
 header.masthead .site-heading {
-    padding: 200px 0 150px;
+    padding: 250px 0 150px;
     color: white;
 }
 
@@ -215,13 +215,16 @@ header.masthead .site-heading {
     header.masthead .page-heading,
     header.masthead .post-heading,
     header.masthead .site-heading {
-        padding: 200px 0;
+        padding: 250px 0;
     }
 }
 
 header.masthead .page-heading,
 header.masthead .site-heading {
-    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
 
 header.masthead .page-heading h1,
@@ -496,4 +499,18 @@ footer .copyright {
 
 .value {
   width: 100%;
+}
+.card-header {
+  background: #23232A;
+  color: white;
+}
+
+.card-text {
+  padding: 0px 50px 25px 50px;
+}
+
+.card
+{
+  margin-top: 50px;
+  margin-bottom: 15px;
 }
