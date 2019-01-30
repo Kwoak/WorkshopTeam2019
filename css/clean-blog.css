@@ -447,8 +447,8 @@ footer .copyright {
     margin-top: 15px;
     margin-bottom: 10px;
     width: 100%;
-    max-width: 500px;
-    height: 333px;
+    max-width: 400px;
+    height: 266px;
 }
 
 .yeah {
@@ -520,4 +520,10 @@ footer .copyright {
 
 .container {
     margin-bottom: 25px;
+    width: 90%;
+}
+
+.container-objectif {
+    margin-right: 15px;
+    margin-left: 15px;
 }
