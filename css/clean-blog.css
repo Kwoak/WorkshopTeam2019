@@ -527,6 +527,13 @@ footer .copyright {
     width: 90%;
 }
 
+.card-body2 {
+    
+    margin: 150px 10px 0px 10px;
+    text-align-last: center;
+
+}
+
 @media (max-width: 767px) {
   
     .main-container1 {
@@ -556,5 +563,12 @@ footer .copyright {
     }
     .value {
         height: 300px;
+    }
+
+    .card-body2 {
+    
+        margin: 27px 3px 0px 3px;
+        text-align-last: center;
+    
     }
 }
