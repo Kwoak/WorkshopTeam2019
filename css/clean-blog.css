@@ -523,7 +523,6 @@ footer .copyright {
     width: 90%;
 }
 
-.container-objectif {
-    margin-right: 15px;
-    margin-left: 15px;
+.card {
+    width: 80%;
 }
